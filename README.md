@@ -4,7 +4,7 @@ Text corpora and useful resources used in my master dissertation.
 
 ## Health-related content and resources (EN)
 
-* 3574 Health news and 1905 medico-scientific articles [documents]()
+* 3574 Health news and 1905 medico-scientific articles [documents](https://github.com/HelderAntunes/readability-corpora/blob/master/medical-en/medical_news_articles_docs.xml)
 * Medical word [list]() (vocabulary)
 * Medical word [list]() from health news with collection and document frequency
 * Medical word [list]() from medico-scientific articles with collection and document frequency
